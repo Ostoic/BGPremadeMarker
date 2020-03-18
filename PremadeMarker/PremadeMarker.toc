@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: AutoMark
+## Version: v1.1.0
+## Notes: For automatically managing party marks in premade BG groups
+## Author: Horsebreed
+## SavedVariablesPerCharacter: 
+## OptionalDeps: 
+
+core.lua
