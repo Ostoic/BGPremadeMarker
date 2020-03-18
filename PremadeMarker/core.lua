@@ -164,7 +164,6 @@ f:RegisterEvent('RAID_ROSTER_UPDATE')
 f:RegisterEvent('PARTY_MEMBERS_CHANGED')
 f:RegisterEvent('PLAYER_ENTERING_WORLD')
 f:SetScript('OnEvent', function(self, event, arg)
-      print(event)
       if should_mark(event, arg) then
          mark_party() 
          if should_convert_to_raid then
