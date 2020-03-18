@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: AutoMark
+## Title: PremadeMarker
 ## Version: v1.1.0
 ## Notes: For automatically managing party marks in premade BG groups
 ## Author: Horsebreed
