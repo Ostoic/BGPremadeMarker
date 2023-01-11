@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # PremadeMarker
 A 3.3.5 World of Warcraft Addon For Automatically Managing Party Marks in Premade BG Groups
 
